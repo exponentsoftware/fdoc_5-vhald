@@ -1,0 +1,24 @@
+{
+    "name": "fdoc_5-vhald",
+    "version": "1.0.0",
+    "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+    "main": "question1.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node question1.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/exponentsoftware/fdoc_5-vhald.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/exponentsoftware/fdoc_5-vhald/issues"
+    },
+    "homepage": "https://github.com/exponentsoftware/fdoc_5-vhald#readme",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "node-fetch": "^3.2.3"
+    }
+}
